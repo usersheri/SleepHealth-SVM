@@ -1,3 +1,25 @@
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
-This project analyzes Sleep Health data and builds a classification model to predict whether a person has a sleep disorder based on lifestyle, demographic, and health attributes.
-The notebook covers data cleaning, preprocessing, encoding, feature engineering, model training, and evaluation.
+
+# Sleep Health and Lifestyle Analysis
+
+## 📌 Project Overview
+This project analyzes the relationship between **sleep patterns** and **lifestyle factors** such as physical activity, stress level, and daily habits. Using exploratory data analysis and basic machine learning techniques, the project aims to uncover insights that affect sleep quality and overall health.
+
+---
+
+## 🎯 Objectives
+- Explore sleep duration and sleep quality trends  
+- Analyze the impact of lifestyle factors on sleep health  
+- Visualize correlations between sleep and daily activities  
+- Draw insights that can help improve sleep habits  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
